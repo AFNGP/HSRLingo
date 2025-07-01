@@ -8,7 +8,7 @@ This patcher works for both OS and CN clients.
 
 ## How to Use?
 
-- Download from [releases](https://github.com/AFNGP/HSRLingo) or download `hsrlingo.py` 
+- Download from [releases](https://github.com/AFNGP/HSRLingo/releases/latest) or download `hsrlingo.py` 
 - Place in the same folder where `StarRail.exe` is located
 - Double-click the exe or launch via `python hsrlingo.py`
 - Follow the specified instructions
